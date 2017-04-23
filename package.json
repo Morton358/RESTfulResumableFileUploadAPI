@@ -1,0 +1,18 @@
+{
+  "name": "uploader_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "bson": "^1.0.4",
+    "mongodb": "https://github.com/mongodb/node-mongodb-native/archive/gridfs-specification.tar.gz",
+    "socket.io": "^1.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Volodymyr <volodymyr.kovalchuk@pl.ibm.com>",
+  "license": "MIT"
+}
