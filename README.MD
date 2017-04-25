@@ -1,6 +1,6 @@
 # RESTfulResumableFileUploadAPI
 
-RESTfulResumableFileUploadAPI tendent to give the possibility of uploading a huge files with resumable function to a server.
+RESTfulResumableFileUploadAPI the purpose is to give the possibility of uploading huge files with the resumable function to a server.
 
 ##Main Components of the RESTfulResumableFileUploadAPI
 
@@ -17,12 +17,13 @@ Browser support is tested in Saucelabs:
 ## Installation
 
 You must only clone all files.
-And have on you machine installed earlier Node and MongoDB
+And have installed Node and MongoDB on you machine
 
 ## Steps to start RESTfulResumableFileUploadAPI
 
 	- start mongod
 	- node server.js
+	- localhost:8080
 
 
 ## Documentation
