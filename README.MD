@@ -2,7 +2,7 @@
 
 RESTfulResumableFileUploadAPI the purpose is to give the possibility of uploading huge files with the resumable function to a server.
 
-##Main Components of the RESTfulResumableFileUploadAPI
+## Main Components of the RESTfulResumableFileUploadAPI
 
 	- Socket.io (https://github.com/socketio/socket.io)
 	- File Reader API (https://developer.mozilla.org/en-US/docs/Web/API/FileReader)
